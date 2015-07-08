@@ -1,0 +1,22 @@
+{
+  "name": "s.to",
+  "version": "1.0.0",
+  "description": "S.to - convert to",
+  "main": "s.to.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macton/S.to.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macton/S.to/issues"
+  },
+  "homepage": "https://github.com/macton/S.to#readme",
+  "dependencies": {
+    "s": "macton/S"
+  }
+}
